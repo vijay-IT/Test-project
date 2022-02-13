@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+
+body,
+html {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+/* .slick-prev {
+  left: 20px !important;
+  z-index: 999;
+}
+.slick-next {
+  right: 50px !important;
+  z-index: 999;
+}
+.slick-prev:before,
+.slick-next:before {
+  font-size: 50px;
+}
+.slick-dots li {
+  background: none;
+}
+.slick-dots li button:before {
+  font-size: 15px;
+} */
